@@ -103,14 +103,14 @@ body {
 }
 
 #radio1:checked ~ .nav-auto > .auto-btn1 {
-  margin-left: 0;
+  background-color: blueviolet;
 }
 #radio2:checked ~ .nav-auto > .auto-btn2 {
-  margin-left: -20%;
+  background-color: blueviolet;
 }
 #radio3:checked ~ .nav-auto > .auto-btn3 {
-  margin-left: -40%;
+  background-color: blueviolet;
 }
 #radio4:checked ~ .nav-auto > .auto-btn4 {
-  margin-left: -60%;
+  background-color: blueviolet;
 }
